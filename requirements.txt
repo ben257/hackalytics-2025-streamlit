@@ -5,3 +5,4 @@ pydeck==0.8.0
 matplotlib==3.8.4
 scikit-learn==1.4.2
 xlrd==2.0.1
+shapely==2.0.7
